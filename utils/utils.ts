@@ -52,22 +52,22 @@ type suggestionType = {
 export const suggestions: suggestionType[] = [
   {
     id: 1,
-    name: "Basketball",
+    name: "学习篮球",
     icon: "/basketball-new.svg",
   },
   {
     id: 2,
-    name: "Machine Learning",
+    name: "机器学习课程",
     icon: "/light-new.svg",
   },
   {
     id: 3,
-    name: "Personal Finance",
+    name: "金融",
     icon: "/finance.svg",
   },
   {
     id: 4,
-    name: "U.S History",
+    name: "美国历史",
     icon: "/us.svg",
   },
 ];
