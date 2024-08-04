@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="container flex h-[60px] shrink-0 items-center justify-center px-4 lg:h-[80px] lg:px-0">
       <a href="/">
-        <Logo className="w-30 sm:w-36" />
+        <h1 className="text-2xl font-bold">云识科技--云师AI导师</h1> {/* 替换为文字标题 */}
       </a>
     </div>
   );
