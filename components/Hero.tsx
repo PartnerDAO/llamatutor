@@ -89,7 +89,7 @@ const Hero: FC<THeroProps> = ({
           ))}
         </div>
         <p className="text-center text-sm font-light leading-[normal] text-[#1B1B16]">
-          Fully open source!{" "}
+          借助开源程序与开源大语言模型构建人工智能导师
           <span className="text-sm font-medium underline">
             <a
               href="https://github.com/Nutlope/llamatutor"
